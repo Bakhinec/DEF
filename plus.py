@@ -5,15 +5,15 @@ def plus(a, b):
 print(plus(4, 2))
 
 
-def çıkartma(c, d):
+def minus(c, d):
     return c - d
 
 
-print(çıkartma(6 - 3))
+print(minus(6 - 3))
 
 
-def çarpma(e, f):
+def carpma(e, f):
     return e * f
 
 
-print(çarpma(5 * 3))
+print(carpma(5 * 3))
