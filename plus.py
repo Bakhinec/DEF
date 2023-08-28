@@ -9,11 +9,16 @@ def minus(c, d):
     return c - d
 
 
-print(minus(6 - 3))
+print(minus(6 ,3))
 
 
 def carpma(e, f):
     return e * f
 
 
-print(carpma(5 * 3))
+print(carpma(5 ,3))
+
+def bolum(g,h):
+    return g/h
+
+print(bolum(6,3))
